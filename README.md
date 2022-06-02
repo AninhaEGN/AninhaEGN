@@ -1,9 +1,7 @@
 #Sobre mim
 - 👋 oii,meu nome é Ana. 
-- 👀 meu email de contato é anasilva9564@gmail.com
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- *-* meu email de contato é anasilva9564@gmail.com
+- 👀 tenho interesse em aprender 
 
 <!---
 AninhaEGN/AninhaEGN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
